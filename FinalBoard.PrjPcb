@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HYHIVEBR
 
 [Document3]
-DocumentPath=Symbols\Schlib1.SchLib
+DocumentPath=Symbols\segdisplay.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ZUTYLLRD
 
 [Document4]
-DocumentPath=FootPrints\PcbLib1.PcbLib
+DocumentPath=FootPrints\segdisplay.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
