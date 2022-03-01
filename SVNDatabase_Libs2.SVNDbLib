@@ -1,0 +1,242 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=MSDASQL.1;Persist Security Info=False;Data Source=AltiumGFU64
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=0
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=
+LibraryDatabasePath=
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=http://engr.georgefox.edu/svn/altium/libraries/GFU_Symbols;http://engr.georgefox.edu/svn/altium/libraries/GFU_Footprints
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=ALTIUM
+LastFocusedTable=transistors
+SVNRepositoryURL=http://engr.georgefox.edu/svn/altium
+FileRepositoryIsRelative=0
+[Table1]
+SchemaName=
+TableName=capacitors
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table2]
+SchemaName=
+TableName=connectors
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=GFUPartNo0=198|Manufacturer 10=151|Manufacturer Part Number 10=198|Comment0=198|Description0=544|Library Ref0=174|Footprint Ref0=243|Part Type0=70|PackageReference0=116|Inventory Count0=106|Supplier 10=136|Supplier Part Number 10=142|Supplier Unit Price 10=127|Supplier Order Qty 10=128|Supplier 20=136|Supplier Part Number 20=142|Supplier Unit Price 20=127|Supplier Order Qty 20=128
+[Table3]
+SchemaName=
+TableName=crystals
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=GFUPartNo0=152|Manufacturer 10=155|Manufacturer Part Number 10=169|Comment0=152|Description0=499|Library Ref0=189|Footprint Ref0=201|Part Type0=70|PackageReference0=116|Inventory Count0=106|Supplier 10=75|Supplier Part Number 10=142|Supplier Unit Price 10=127|Supplier Order Qty 10=128|Supplier 20=75|Supplier Part Number 20=142|Supplier Unit Price 20=127|Supplier Order Qty 20=128
+[Table4]
+SchemaName=
+TableName=diodes
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=GFUPartNo0=133|Manufacturer 10=177|Manufacturer Part Number 10=192|Comment0=192|Description0=340|Library Ref0=169|Footprint Ref0=183|Part Type0=70|PackageReference0=116|Inventory Count0=106|Supplier 10=75|Supplier Part Number 10=148|Supplier Unit Price 10=127|Supplier Order Qty 10=128|Supplier 20=75|Supplier Part Number 20=142|Supplier Unit Price 20=127|Supplier Order Qty 20=128
+[Table5]
+SchemaName=
+TableName=electromechanical
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=GFUPartNo0=152|Manufacturer 10=166|Manufacturer Part Number 10=169|Comment0=126|Description0=415|Library Ref0=196|Footprint Ref0=159|Part Type0=70|PackageReference0=116|Inventory Count0=106|Supplier 10=129|Supplier Part Number 10=151|Supplier Unit Price 10=127|Supplier Order Qty 10=128|Supplier 20=108|Supplier Part Number 20=142|Supplier Unit Price 20=127|Supplier Order Qty 20=128
+[Table6]
+SchemaName=
+TableName=ic_analog
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=GFUPartNo0=105|Manufacturer 10=132|Manufacturer Part Number 10=169|Comment0=105|Library Ref0=84|Description0=204|Footprint Ref0=302|Part Type0=70|PackageReference0=120|Inventory Count0=106|Supplier 10=102|Supplier Part Number 10=142|Supplier Unit Price 10=127|Supplier Order Qty 10=128|Supplier 20=75|Supplier Part Number 20=142|Supplier Unit Price 20=127|Supplier Order Qty 20=128
+[Table7]
+SchemaName=
+TableName=ic_digital
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=GFUPartNo0=216|Manufacturer 10=132|Manufacturer Part Number 10=169|Comment0=138|Description0=381|Library Ref0=203|Footprint Ref0=313|Part Type0=70|PackageReference0=124|Inventory Count0=106|Supplier 10=102|Supplier Part Number 10=158|Supplier Unit Price 10=127|Supplier Order Qty 10=128|Supplier 20=102|Supplier Part Number 20=142|Supplier Unit Price 20=127|Supplier Order Qty 20=128
+[Table8]
+SchemaName=
+TableName=ic_mixed
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=GFUPartNo0=101|Manufacturer 10=122|Manufacturer Part Number 10=169|Comment0=121|Description0=192|Library Ref0=102|Footprint Ref0=259|Part Type0=70|PackageReference0=116|Inventory Count0=106|Supplier 10=75|Supplier Part Number 10=142|Supplier Unit Price 10=127|Supplier Order Qty 10=128|Supplier 20=75|Supplier Part Number 20=142|Supplier Unit Price 20=127|Supplier Order Qty 20=128
+[Table9]
+SchemaName=
+TableName=ic_power
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=GFUPartNo0=158|Manufacturer 10=173|Manufacturer Part Number 10=169|Comment0=116|Description0=352|Library Ref0=235|Footprint Ref0=319|Part Type0=70|PackageReference0=116|Inventory Count0=106|Supplier 10=75|Supplier Part Number 10=159|Supplier Unit Price 10=127|Supplier Order Qty 10=128|Supplier 20=75|Supplier Part Number 20=158|Supplier Unit Price 20=127|Supplier Order Qty 20=128
+[Table10]
+SchemaName=
+TableName=inductors
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=GFUPartNo0=102|Manufacturer 10=102|Manufacturer Part Number 10=169|Comment0=102|Description0=239|Inductance0=80|Current0=62|Tolerance0=73|Shielded0=68|Library Ref0=77|Footprint Ref0=256|Part Type0=70|PackageReference0=116|Inventory Count0=106|Supplier 10=75|Supplier Part Number 10=142|Supplier Unit Price 10=127|Supplier Order Qty 10=128|Supplier 20=75|Supplier Part Number 20=142|Supplier Unit Price 20=127|Supplier Order Qty 20=128
+[Table11]
+SchemaName=
+TableName=misc
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=GFUPartNo0=150|Manufacturer 10=146|Manufacturer Part Number 10=169|Comment0=150|Description0=291|Library Ref0=130|Footprint Ref0=171|Part Type0=70|PackageReference0=116|Inventory Count0=106|Supplier 10=110|Supplier Part Number 10=163|Supplier Unit Price 10=127|Supplier Order Qty 10=128|Supplier 20=110|Supplier Part Number 20=142|Supplier Unit Price 20=127|Supplier Order Qty 20=128
+[Table12]
+SchemaName=
+TableName=resistors
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=GFUPartNo0=122|Manufacturer 10=134|Manufacturer Part Number 10=169|Comment0=72|Description0=435|Library Ref0=115|Footprint Ref0=265|Part Type0=70|PackageReference0=116|Inventory Count0=106|Supplier 10=75|Supplier Part Number 10=142|Supplier Unit Price 10=127|Supplier Order Qty 10=128|Supplier 20=75|Supplier Part Number 20=142|Supplier Unit Price 20=127|Supplier Order Qty 20=128
+[Table13]
+SchemaName=
+TableName=transistors
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=GFUPartNo0=105|Manufacturer 10=173|Manufacturer Part Number 10=169|Comment0=105|Description0=468|Library Ref0=195|Footprint Ref0=180|Part Type0=70|PackageReference0=116|Inventory Count0=106|Supplier 10=75|Supplier Part Number 10=142|Supplier Unit Price 10=127|Supplier Order Qty 10=128|Supplier 20=75|Supplier Part Number 20=142|Supplier Unit Price 20=127|Supplier Order Qty 20=128
+[FieldMap1]
+Options=FieldName=capacitors.GFUPartNo|TableNameOnly=capacitors|FieldNameOnly=GFUPartNo|FieldType=0|ParameterName=GFUPartNo|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=capacitors.Description|TableNameOnly=capacitors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=capacitors.Library Ref|TableNameOnly=capacitors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=capacitors.Footprint Ref|TableNameOnly=capacitors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=connectors.GFUPartNo|TableNameOnly=connectors|FieldNameOnly=GFUPartNo|FieldType=0|ParameterName=GFUPartNo|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=connectors.Description|TableNameOnly=connectors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=connectors.Library Ref|TableNameOnly=connectors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=connectors.Footprint Ref|TableNameOnly=connectors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=crystals.GFUPartNo|TableNameOnly=crystals|FieldNameOnly=GFUPartNo|FieldType=0|ParameterName=GFUPartNo|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=crystals.Description|TableNameOnly=crystals|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=crystals.Library Ref|TableNameOnly=crystals|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=crystals.Footprint Ref|TableNameOnly=crystals|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=diodes.GFUPartNo|TableNameOnly=diodes|FieldNameOnly=GFUPartNo|FieldType=0|ParameterName=GFUPartNo|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=diodes.Description|TableNameOnly=diodes|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=diodes.Library Ref|TableNameOnly=diodes|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=diodes.Footprint Ref|TableNameOnly=diodes|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=electromechanical.GFUPartNo|TableNameOnly=electromechanical|FieldNameOnly=GFUPartNo|FieldType=0|ParameterName=GFUPartNo|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap18]
+Options=FieldName=electromechanical.Description|TableNameOnly=electromechanical|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap19]
+Options=FieldName=electromechanical.Library Ref|TableNameOnly=electromechanical|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap20]
+Options=FieldName=electromechanical.Footprint Ref|TableNameOnly=electromechanical|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap21]
+Options=FieldName=ic_analog.GFUPartNo|TableNameOnly=ic_analog|FieldNameOnly=GFUPartNo|FieldType=0|ParameterName=GFUPartNo|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=ic_analog.Library Ref|TableNameOnly=ic_analog|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=ic_analog.Description|TableNameOnly=ic_analog|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=ic_analog.Footprint Ref|TableNameOnly=ic_analog|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap25]
+Options=FieldName=ic_digital.GFUPartNo|TableNameOnly=ic_digital|FieldNameOnly=GFUPartNo|FieldType=0|ParameterName=GFUPartNo|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap26]
+Options=FieldName=ic_digital.Description|TableNameOnly=ic_digital|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap27]
+Options=FieldName=ic_digital.Library Ref|TableNameOnly=ic_digital|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap28]
+Options=FieldName=ic_digital.Footprint Ref|TableNameOnly=ic_digital|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap29]
+Options=FieldName=ic_mixed.GFUPartNo|TableNameOnly=ic_mixed|FieldNameOnly=GFUPartNo|FieldType=0|ParameterName=GFUPartNo|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap30]
+Options=FieldName=ic_mixed.Description|TableNameOnly=ic_mixed|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap31]
+Options=FieldName=ic_mixed.Library Ref|TableNameOnly=ic_mixed|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap32]
+Options=FieldName=ic_mixed.Footprint Ref|TableNameOnly=ic_mixed|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap33]
+Options=FieldName=ic_power.GFUPartNo|TableNameOnly=ic_power|FieldNameOnly=GFUPartNo|FieldType=0|ParameterName=GFUPartNo|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap34]
+Options=FieldName=ic_power.Description|TableNameOnly=ic_power|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap35]
+Options=FieldName=ic_power.Library Ref|TableNameOnly=ic_power|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap36]
+Options=FieldName=ic_power.Footprint Ref|TableNameOnly=ic_power|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap37]
+Options=FieldName=inductors.GFUPartNo|TableNameOnly=inductors|FieldNameOnly=GFUPartNo|FieldType=0|ParameterName=GFUPartNo|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap38]
+Options=FieldName=inductors.Description|TableNameOnly=inductors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap39]
+Options=FieldName=inductors.Library Ref|TableNameOnly=inductors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap40]
+Options=FieldName=inductors.Footprint Ref|TableNameOnly=inductors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap41]
+Options=FieldName=misc.GFUPartNo|TableNameOnly=misc|FieldNameOnly=GFUPartNo|FieldType=0|ParameterName=GFUPartNo|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap42]
+Options=FieldName=misc.Description|TableNameOnly=misc|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap43]
+Options=FieldName=misc.Library Ref|TableNameOnly=misc|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap44]
+Options=FieldName=misc.Footprint Ref|TableNameOnly=misc|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap45]
+Options=FieldName=resistors.GFUPartNo|TableNameOnly=resistors|FieldNameOnly=GFUPartNo|FieldType=0|ParameterName=GFUPartNo|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap46]
+Options=FieldName=resistors.Description|TableNameOnly=resistors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap47]
+Options=FieldName=resistors.Library Ref|TableNameOnly=resistors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap48]
+Options=FieldName=resistors.Footprint Ref|TableNameOnly=resistors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap49]
+Options=FieldName=transistors.GFUPartNo|TableNameOnly=transistors|FieldNameOnly=GFUPartNo|FieldType=0|ParameterName=GFUPartNo|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap50]
+Options=FieldName=transistors.Description|TableNameOnly=transistors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap51]
+Options=FieldName=transistors.Library Ref|TableNameOnly=transistors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap52]
+Options=FieldName=transistors.Footprint Ref|TableNameOnly=transistors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
