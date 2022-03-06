@@ -1,0 +1,101 @@
+Added Component: Designator=J1(LED-3535)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SK6812MINI/DONGGUANG+OPSCO+OPTOELECTRONICS+CO.%252C+LTD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "DONGGUANG OPSCO OPTOELECTRONICS CO., LTD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SK6812MINI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SK6812MINI/DONGGUANG+OPSCO+OPTOELECTRONICS+CO.%252C+LTD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(LED-3535)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SK6812MINI/DONGGUANG+OPSCO+OPTOELECTRONICS+CO.%252C+LTD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "DONGGUANG OPSCO OPTOELECTRONICS CO., LTD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SK6812MINI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SK6812MINI/DONGGUANG+OPSCO+OPTOELECTRONICS+CO.%252C+LTD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(LED-3535)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SK6812MINI/DONGGUANG+OPSCO+OPTOELECTRONICS+CO.%252C+LTD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "DONGGUANG OPSCO OPTOELECTRONICS CO., LTD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SK6812MINI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SK6812MINI/DONGGUANG+OPSCO+OPTOELECTRONICS+CO.%252C+LTD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4(LED-3535)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SK6812MINI/DONGGUANG+OPSCO+OPTOELECTRONICS+CO.%252C+LTD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "DONGGUANG OPSCO OPTOELECTRONICS CO., LTD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SK6812MINI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SK6812MINI/DONGGUANG+OPSCO+OPTOELECTRONICS+CO.%252C+LTD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J5(LED-3535)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SK6812MINI/DONGGUANG+OPSCO+OPTOELECTRONICS+CO.%252C+LTD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "DONGGUANG OPSCO OPTOELECTRONICS CO., LTD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SK6812MINI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SK6812MINI/DONGGUANG+OPSCO+OPTOELECTRONICS+CO.%252C+LTD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J6(LED-3535)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SK6812MINI/DONGGUANG+OPSCO+OPTOELECTRONICS+CO.%252C+LTD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "DONGGUANG OPSCO OPTOELECTRONICS CO., LTD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SK6812MINI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SK6812MINI/DONGGUANG+OPSCO+OPTOELECTRONICS+CO.%252C+LTD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7(LED-3535)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SK6812MINI/DONGGUANG+OPSCO+OPTOELECTRONICS+CO.%252C+LTD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "DONGGUANG OPSCO OPTOELECTRONICS CO., LTD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SK6812MINI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SK6812MINI/DONGGUANG+OPSCO+OPTOELECTRONICS+CO.%252C+LTD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(sliderpot)
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J5-3
+Added Pin To Net: NetName=GND Pin=J6-3
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Pin To Net: NetName=LEDDATA Pin=J1-4
+Added Net: Name=LEDDATA
+Added Pin To Net: NetName=LEDPOWER Pin=J1-1
+Added Pin To Net: NetName=LEDPOWER Pin=J2-1
+Added Pin To Net: NetName=LEDPOWER Pin=J3-1
+Added Pin To Net: NetName=LEDPOWER Pin=J4-1
+Added Pin To Net: NetName=LEDPOWER Pin=J5-1
+Added Pin To Net: NetName=LEDPOWER Pin=J6-1
+Added Pin To Net: NetName=LEDPOWER Pin=J7-1
+Added Net: Name=LEDPOWER
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=J2-4
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=J3-4
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=J4-4
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=J5-4
+Added Net: Name=NetJ4_2
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Pin To Net: NetName=NetJ5_2 Pin=J6-4
+Added Net: Name=NetJ5_2
+Added Pin To Net: NetName=NetJ6_2 Pin=J6-2
+Added Pin To Net: NetName=NetJ6_2 Pin=J7-4
+Added Net: Name=NetJ6_2
+Added Member To Class: ClassName=FinalBoard Member=Component R? 10k
+Added Room: Name=FinalBoard

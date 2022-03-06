@@ -1,0 +1,38 @@
+Added Component: Designator=AD1(Header 6x1 8.5mm)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Arrow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "52553843"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2699089"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "SAM1198-06-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "11P8269"; VariantName = "[No Variations]"
+Added Component: Designator=ICSP1(ICSP)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Arrow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Arrow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SAM1185-03-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2699340"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "46091550"; VariantName = "[No Variations]"
+Added Component: Designator=IOL1(Header 8x1 8.5mm)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Arrow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2698925"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2698940"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "SAM1198-08-ND"; VariantName = "[No Variations]"
+Added Component: Designator=POWER1(Header 8x1 8.5mm)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Arrow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2698925"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "SAM1198-08-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "2698940"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=POWER1-2
+Added Pin To Net: NetName=GND Pin=POWER1-3
+Added Pin To Net: NetName=5V Pin=POWER1-4
+Added Member To Class: ClassName=FinalBoard Member=Component AD1 AD
+Added Member To Class: ClassName=FinalBoard Member=Component ICSP1 ICSP
+Added Member To Class: ClassName=FinalBoard Member=Component IOL1 IOL
+Added Member To Class: ClassName=FinalBoard Member=Component POWER1 POWER_UNO
+Added Room: Name=FinalBoard

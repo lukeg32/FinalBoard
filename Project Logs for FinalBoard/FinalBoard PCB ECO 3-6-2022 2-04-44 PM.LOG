@@ -1,0 +1,12 @@
+Added Component: Designator=*(Header 10x1 8.5mm)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Arrow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2698789"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2698803S4475693N1004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "SAM1198-10-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LEDDATA Pin=*-3
+Added Pin To Net: NetName=GND Pin=*-7
+Added Pin To Net: NetName=SDA Pin=*-9
+Added Pin To Net: NetName=SCL Pin=*-10
+Added Member To Class: ClassName=FinalBoard Member=Component * IOH
