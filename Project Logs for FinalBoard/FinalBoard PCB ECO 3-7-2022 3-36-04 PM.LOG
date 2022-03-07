@@ -1,0 +1,20 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=R? NewDesignator=R39
+Change Component Designator: OldDesignator=R? NewDesignator=R40
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR40_2
+Added Pin To Net: NetName=AD1 Pin=AD1-2
+Added Net: Name=AD1
+Added Member To Class: ClassName=FinalBoard Member=Component C1 104uF, 20%
+Added Member To Class: ClassName=FinalBoard Member=Component C3 104uF, 20%
+Added Member To Class: ClassName=FinalBoard Member=Component C4 104uF, 20%
+Added Member To Class: ClassName=FinalBoard Member=Component C5 104uF, 20%
+Added Member To Class: ClassName=FinalBoard Member=Component C6 104uF, 20%
+Added Member To Class: ClassName=FinalBoard Member=Component C7 104uF, 20%
+Added Member To Class: ClassName=FinalBoard Member=Component R40 10K, 1%
+Added Room: Name=FinalBoard

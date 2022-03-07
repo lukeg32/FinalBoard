@@ -1,0 +1,122 @@
+Added Component: Designator=C?(0805_CAP_HD)
+Add component (AddParameter): Name = "GFUPartNo"; Value = "08056D226MAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "08056D226MAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-3647-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805_CAP_HD)
+Add component (AddParameter): Name = "GFUPartNo"; Value = "08056D226MAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "08056D226MAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-3647-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805_CAP_HD)
+Add component (AddParameter): Name = "GFUPartNo"; Value = "08056D226MAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "08056D226MAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-3647-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805_CAP_HD)
+Add component (AddParameter): Name = "GFUPartNo"; Value = "08056D226MAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "08056D226MAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-3647-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805_CAP_HD)
+Add component (AddParameter): Name = "GFUPartNo"; Value = "08056D226MAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "08056D226MAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-3647-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805_CAP_HD)
+Add component (AddParameter): Name = "GFUPartNo"; Value = "08056D226MAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "08056D226MAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-3647-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805_CAP_HD)
+Add component (AddParameter): Name = "GFUPartNo"; Value = "08056D226MAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "08056D226MAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-3647-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603_RES_HD)
+Add component (AddParameter): Name = "GFUPartNo"; Value = "CRCW060316K5FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CRCW060316K5FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-16.5KHCT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LEDPOWER Pin=C?-1
+Added Pin To Net: NetName=LEDPOWER Pin=C?-1
+Added Pin To Net: NetName=LEDPOWER Pin=C?-1
+Added Pin To Net: NetName=LEDPOWER Pin=C?-1
+Added Pin To Net: NetName=LEDPOWER Pin=C?-1
+Added Pin To Net: NetName=LEDPOWER Pin=C?-1
+Added Pin To Net: NetName=LEDPOWER Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=LEDPOWER Pin=P1-40
+Added Pin To Net: NetName=LEDPOWER Pin=POWER1-4
+Added Pin To Net: NetName=3V3 Pin=POWER1-5
+Added Pin To Net: NetName=3V3 Pin=R?-1
+Added Pin To Net: NetName=3V3 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-3
+Change Net Name : Old Net Name=LEDPOWER New Net Name=5V
+Added Pin To Net: NetName=AD0 Pin=AD1-1
+Added Pin To Net: NetName=AD0 Pin=R?-2
+Added Net: Name=AD0
+Added Pin To Net: NetName=IO1 Pin=IOL1-2
+Added Pin To Net: NetName=IO1 Pin=S6-1
+Added Net: Name=IO1
+Added Pin To Net: NetName=IO2 Pin=IOL1-3
+Added Pin To Net: NetName=IO2 Pin=S5-1
+Added Net: Name=IO2
+Added Pin To Net: NetName=IO3 Pin=IOL1-4
+Added Pin To Net: NetName=IO3 Pin=S4-1
+Added Net: Name=IO3
+Added Pin To Net: NetName=IO4 Pin=IOL1-5
+Added Pin To Net: NetName=IO4 Pin=S3-1
+Added Net: Name=IO4
+Added Pin To Net: NetName=IO5 Pin=IOL1-6
+Added Pin To Net: NetName=IO5 Pin=S2-1
+Added Net: Name=IO5
+Added Pin To Net: NetName=IO6 Pin=IOL1-7
+Added Pin To Net: NetName=IO6 Pin=S1-1
+Added Net: Name=IO6
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=S1-2
+Added Pin To Net: NetName=NetR?_2 Pin=S2-2
+Added Pin To Net: NetName=NetR?_2 Pin=S3-2
+Added Pin To Net: NetName=NetR?_2 Pin=S4-2
+Added Pin To Net: NetName=NetR?_2 Pin=S5-2
+Added Pin To Net: NetName=NetR?_2 Pin=S6-2
+Added Net: Name=NetR?_2
+Added Member To Class: ClassName=FinalBoard Member=Component C? 104uF, 20%
+Added Member To Class: ClassName=FinalBoard Member=Component C? 104uF, 20%
+Added Member To Class: ClassName=FinalBoard Member=Component C? 104uF, 20%
+Added Member To Class: ClassName=FinalBoard Member=Component C? 104uF, 20%
+Added Member To Class: ClassName=FinalBoard Member=Component C? 104uF, 20%
+Added Member To Class: ClassName=FinalBoard Member=Component C? 104uF, 20%
+Added Member To Class: ClassName=FinalBoard Member=Component C? 104uF, 20%
+Added Member To Class: ClassName=FinalBoard Member=Component R? 10k
+Added Room: Name=FinalBoard

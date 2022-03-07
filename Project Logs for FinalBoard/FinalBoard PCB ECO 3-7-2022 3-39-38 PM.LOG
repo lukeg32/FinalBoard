@@ -1,0 +1,6 @@
+Added Component: Designator=R?(normalpot)
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Pin To Net: NetName=AD1 Pin=R?-3
+Added Member To Class: ClassName=FinalBoard Member=Component R? normalpot
+Added Room: Name=FinalBoard
